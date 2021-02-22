@@ -1,0 +1,48 @@
+#search{
+    width: 400px;
+    margin: 21% auto;
+    justify-content: center;
+  }
+  
+  
+  
+  
+  
+  #bodycontent{
+  
+    
+    background-image: url("https://media.gettyimages.com/photos/authentic-indian-food-picture-id639389404?s=2048x2048");
+    
+    display: flex;
+    height: 100%;
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+  }
+  
+  #popovers{
+    display: inline-flex;
+    margin-left: -20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  #results {
+    display: inline-block;
+    margin: 30 auto;
+  }
+  
+  #cards{
+    display: inline-flex;
+  
+    padding: 10px;
+    padding-top: 30px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  
+  #cards:hover {
+    padding-left: 5px;
+  }
